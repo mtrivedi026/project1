@@ -1,3 +1,4 @@
 # new project
 
-this project was created from local syste,.
+this project was created from local syste.
+created by mohit trivedi
